@@ -93,4 +93,10 @@ footer {
 	color: #428bca;
 	text-align: center;
 }
+
+body {
+	padding: 2em 1em;
+	margin: 3em 0;
+
+}	
 /*  */
